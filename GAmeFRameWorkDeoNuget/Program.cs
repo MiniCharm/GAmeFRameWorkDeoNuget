@@ -70,4 +70,4 @@ battle.HitEnemy(elf, goblin);
 
 ///Read config file
 ConfigReader reader = new ConfigReader();
-reader.ReadConfigfile("C:\\Users\\johan\\OneDrive - Zealand\\Zealand\\Programering\\AdvancesSC\\GAmeFRameWorkDeoNuget\\GAmeFRameWorkDeoNuget\\config.xml");
+reader.ReadConfigfile("xxx.AdvancesSC\\GAmeFRameWorkDeoNuget\\GAmeFRameWorkDeoNuget\\config.xml");
